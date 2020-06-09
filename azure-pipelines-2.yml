@@ -65,3 +65,21 @@ steps:
 
       print('Hello world 2')
 
+      <repository>
+  <id>demo2020</id>
+  <url>https://pkgs.dev.azure.com/vinodghate/demo2020/_packaging/demo2020/maven/v1</url>
+  <releases>
+    <enabled>true</enabled>
+  </releases>
+  <snapshots>
+    <enabled>true</enabled>
+  </snapshots>
+</repository>
+
+
+<server>
+      <id>demo2020</id>
+      <username>vinodghate</username>
+      <password>[PERSONAL_ACCESS_TOKEN]</password>
+</server>
+
