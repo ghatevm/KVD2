@@ -4,4 +4,4 @@
 
  
 # Display the sum
-print(' HELLO WORLDD' )
+print(' HELLO WORLD' )
