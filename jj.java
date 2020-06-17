@@ -3,6 +3,6 @@ public class jj {
 
    public static void main(String[] args) {
         
-      System.out.println("HELLO WORLD 2020!: ");
+      System.out.println("HELLO WORLD in newbranch java.jj : ");
    }
 }
